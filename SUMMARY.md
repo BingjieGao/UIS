@@ -1,5 +1,6 @@
 # Summary
 
+* [Introduction](README.md)
 * 序言
-* [研究生merit毕业啦](chapter1.md)
+* [毕业](chapter1.md)
 
